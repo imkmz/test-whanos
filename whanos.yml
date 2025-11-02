@@ -1,0 +1,4 @@
+deployment:
+  replicas: 2
+  ports:
+    - 3000
